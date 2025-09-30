@@ -1,13 +1,17 @@
-# 📊 Desejado Bento Cabral
+# 🏄‍♂️ Desejado Cabral
 
-**`Data Analyst | Business Intelligence | Problem Solver`**
+## 👨‍💻 About Me  
 
-Sou um analista de dados em início de carreira, apaixonado por transformar informações complexas em **insights acionáveis** que apoiam a tomada de decisão estratégica. Tenho experiência prática com **Python, SQL, Tableau, Power BI e Excel Avançado**, além de sólida base em **Estatística Aplicada e Machine Learning (básico)**.  
+I’m a **junior data analyst** at the start of my career, passionate about turning complex data into clear, actionable insights that help guide smart decisions.  
 
-Atualmente curso **Informática de Gestão no ISTEC Lisboa** e concluí a certificação em **Análise de Dados pela TripleTen**, onde desenvolvi projetos aplicados como análise de churn, testes A/B, dashboards de BI e segmentação de clientes.  
+I work with **Python, SQL, Tableau, Power BI, and Advanced Excel**, and I have a strong base in **applied statistics** and **introductory machine learning**.  
 
-Meu objetivo é evoluir constantemente e contribuir para empresas que valorizam a **inteligência baseada em dados**.  
+I’m currently studying **Management Informatics at ISTEC Lisbon** and recently completed a **Data Analytics certification at TripleTen**, where I built hands-on projects like **churn analysis, A/B testing, BI dashboards, and customer segmentation**.  
 
+I’m curious by nature and motivated to keep learning, growing, and contributing to teams that believe in the power of **data-driven decision making**.  
+
+
+---
 <p align="left">
    <a href="https://www.linkedin.com/in/desejadocabral/">
       <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -18,31 +22,38 @@ Meu objetivo é evoluir constantemente e contribuir para empresas que valorizam 
 </p>
 
 ---
+## 🧰 Languages and Tools  
 
-### 🧰 Skills & Tools  
+<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="SQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="Tableau" width="40px" style="padding-right:10px;" src="https://img.icons8.com/color/452/tableau-software.png"/>
+<img align="left" alt="Power BI" width="40px" style="padding-right:10px;" src="https://img.icons8.com/color/452/power-bi.png"/>
+<img align="left" alt="Excel" width="40px" style="padding-right:10px;" src="https://img.icons8.com/color/452/microsoft-excel-2019.png"/>
+<img align="left" alt="Pandas" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"/>
+<img align="left" alt="NumPy" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"/>
+<img align="left" alt="Scikit-Learn" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<br/>
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg"/>
-<img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"/>
-<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<br />
-
+<br/><br/><br/>
 ---
+##📊 Estatisticas
 
-### 🚀 Projetos em Destaque  
-
-- [Customer Churn Prediction](#) – Modelos de machine learning para prever rotatividade de clientes em academias.  
-- [AB Testing – Recommender System](#) – Análise estatística e teste de hipóteses para validar impacto em funil de compras.  
-- [Business Intelligence Dashboard](#) – Dashboard interativo no Tableau sobre tendências de mercado.  
-- [SQL Bookstore Analysis](#) – Consultas SQL para extrair insights de base de dados de livros.  
-
----
-
-### 📊 Stats  
-
-![Cabral's GitHub stats](https://github-readme-stats.vercel.app/api?username=desejadocabral&show_icons=true&theme=gruvbox)
-
----
+<p>
+    <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=cabral-bento&show_icons=true&theme=tokyonight"
+    />
+<img
+    align="left
+    alt= "GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cabral-bento&theme=tokyonight&custom_title=Tecnologias&langs_count=9"
+/>
+</p>
