@@ -1,6 +1,6 @@
-# 🏄‍♂️ Desejado Cabral
+#  Desejado Cabral
 
-## 👨‍💻 About Me  
+##  About Me  
 
 I’m a **junior data analyst** at the start of my career, passionate about turning complex data into clear, actionable insights that help guide smart decisions.  
 
